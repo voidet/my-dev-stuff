@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>0.7653 0.699234 0.758969 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>BitstreamVeraSansMono-Roman - 11.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.6431 0.5881 0.637824 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>BitstreamVeraSansMono-Roman - 11.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.892786 0.506719 0.504792 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>BitstreamVeraSansMono-Roman - 11.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>0.831864 0.9471 1 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>BitstreamVeraSansMono-Roman - 11.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.747128 0.850053 0.898781 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>BitstreamVeraSansMono-Roman - 11.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.0762147 0.0762293 0.0762122 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>0.7653 0.699234 0.758969 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.243 0.276 0.277 1</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.705792 0.8 0.544 1</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.16005 0.16189 0.16189 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>1 0 0.501961 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.243 0.276 0.277 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.335 0.456 0.488 1</string>
+		<key>xcode.syntax.character</key>
+		<string>0.616 0.499 0.951 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.298039 0.298039 0.298039 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.298039 0.298039 0.298039 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.821322 0.582177 0.327514 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>1 0 0.501961 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.740869 0.836424 1 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>1 0 0.501961 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.740869 0.836424 1 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>1 0 0.501961 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.740869 0.836424 1 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.778 0.488 0.284 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.778 0.488 0.284 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>1 0 0.501961 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.740869 0.836424 1 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.39388 0.398033 1 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.89 0.605 0.924 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>1 0.28184 0.336154 1</string>
+		<key>xcode.syntax.number</key>
+		<string>0.469 0.426 0.77 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.272638 0.648834 1 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.236751 0.778 0.431894 1</string>
+		<key>xcode.syntax.string</key>
+		<string>1 0.28184 0.336154 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.611 0.699 0.936 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.character</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.number</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.string</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+		<key>xcode.syntax.url</key>
+		<string>BitstreamVeraSansMono-Roman - 11.0</string>
+	</dict>
+</dict>
+</plist>
